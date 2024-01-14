@@ -10,9 +10,8 @@ Download the repository and open the file index.html
 
 ## Technologies
 
-```
 The technologies used in this project are: 
-
+```
 -HTML
 -JS
 -CSS
