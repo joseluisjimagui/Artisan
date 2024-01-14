@@ -10,7 +10,7 @@ Download the repository and open the file index.html
 
 ## Technologies
 
-'''
+```
 The technologies used in this project are: 
 
 -HTML
@@ -18,7 +18,7 @@ The technologies used in this project are:
 -CSS
 -Sass
 -Bootstrap 5
-'''
+```
 
 # Features
 The webpage is reponisve, for cellphone, tablet and compouter.
