@@ -1,4 +1,4 @@
-# Artisan 
+## Artisan 
 
 Static webpage where the user can see different information about a online store called "Artisan".
 
