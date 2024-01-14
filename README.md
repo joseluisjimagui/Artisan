@@ -1,11 +1,11 @@
-## Artisan 
+# Artisan 
 
 Static webpage where the user can see different information about a online store called "Artisan".
 
 This includes a listing sections, photo album, articles about the store and more.
 
 
-# Deploy
+## Deploy
 
 Download the repository and open the file index.html
 
