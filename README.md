@@ -4,6 +4,7 @@ Static webpage where the user can see different information about a online store
 
 This includes a listing sections, photo album, articles about the store and more.
 
+
 # Deploy
 
 Download the repository and open the file index.html
@@ -18,6 +19,7 @@ The technologies used in this project are:
 -Sass
 -Bootstrap 5
 ```
+
 
 # Features
 The webpage is reponisve, for cellphone, tablet and compouter.
